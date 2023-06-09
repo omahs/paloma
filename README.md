@@ -65,7 +65,7 @@ See [Release procedure](CONTRIBUTING.md#release-procedure) for more information 
 
 
 ### Install the correct version of libwasm
-The current required version of libwasm is `1.2.3`. If you're upgrading from a prior version it is recommended to remove the cache to avoid errors. If you're already have `palomad` running, you will need to stop it before doing these steps.
+The current required version of libwasm is `1.2.3`. If you're upgrading from a prior version it is recommended to remove the cache to avoid errors. If you already have `palomad` running, you will need to stop it before doing these steps.
 
 ```
 wget https://github.com/CosmWasm/wasmvm/releases/download/v1.2.3/libwasmvm.x86_64.so
